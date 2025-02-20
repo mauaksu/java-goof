@@ -5,7 +5,7 @@ metadata:
   labels:
     app: goof
   name: goof
-  namespace: default
+  namespace: project-lab
 spec:
   replicas: 1
   selector:
